@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Settings component="StartMenu" version="4.4.170">
+	<ShiftClick value="ClassicMenu"/>
+	<ShiftWin value="Nothing"/>
+	<AllProgramsMetro value="0"/>
+	<RecentMetroApps value="0"/>
+	<StartScreenShortcut value="0"/>
+	<HighlightNew value="0"/>
+	<HighlightNewApps value="0"/>
+	<CheckWinUpdates value="0"/>
+	<SearchPrograms value="1"/>
+	<SearchMetroApps value="0"/>
+	<SearchMetroSettings value="0"/>
+	<SearchFiles value="0"/>
+	<SearchInternet value="0"/>
+	<SkinW7 value="Metro"/>
+	<SkinVariationW7 value=""/>
+	<SkinOptionsW7>
+		<Line>USER_IMAGE=0</Line>
+		<Line>SMALL_ICONS=0</Line>
+		<Line>LARGE_FONT=0</Line>
+		<Line>ICON_FRAMES=0</Line>
+		<Line>OPAQUE=1</Line>
+	</SkinOptionsW7>
+	<SkipMetro value="1"/>
+	<DisableHotCorner value="DisableAll"/>
+</Settings>
